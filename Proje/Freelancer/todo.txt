@@ -1,0 +1,15 @@
+Profile section;
+
+Customers'e link ata ve musteri yorum sayfasina yonlendir.
+Projects'e link ata ve proje sayfasina yonlendir.
+
+
+Social;
+sosyal medya hesaplarinin linklerini ekle
+
+Contact Us;
+email phone adres baglantilarini ekle ve ilgili sayfaya yonlendir.
+Mailbox - Telefon Et - Google-Apple Maps
+
+Responsive;
+Tum pixel lere gore duzenle
